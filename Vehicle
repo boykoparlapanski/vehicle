@@ -1,0 +1,25 @@
+public abstract class Vehicle {
+
+   private String brand;
+   private String model;
+   private int number of wheels;
+
+   public abstract printinfo();
+
+public abstract class Car {
+
+   private String number of doors; 
+       
+   }
+
+   public abstract printinfo();
+
+public abstract class Truck {
+
+   public String max load;
+   
+   }
+
+   public abstract printinfo();
+
+}
